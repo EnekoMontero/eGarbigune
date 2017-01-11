@@ -15,7 +15,7 @@
  - Velocidad: 20-40mm/s
 
 ##Instrucciones de montaje
-[Índice - Guía de montaje](http://haudahau.com/vadedos/)
+[Índice - Guía de montaje](http://haudahau.com/vadedos/?p=906)
  1. [Lista de materiales](http://haudahau.com/vadedos/?p=952)
  2. [Preparando los lectores de cd/dvd](http://haudahau.com/vadedos/?p=982)
  3. [Impresión de piezas](http://haudahau.com/vadedos/?p=1000)
