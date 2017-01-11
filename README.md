@@ -1,10 +1,8 @@
 #eGarbigune :recycle:
- > Probably the cheapest mini 3D printer in the world. :moneybag:
+ > Probably the cheapest mini 3D printer in the world. :moneybag:<br/>
  > Probablemente la mini impresora 3D más barata del mundo. :moneybag:
-
-![perfil sin fondo](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/eg_sinfondo.jpg)
  
-[TOC]
+`[TOC]`
 
 ##Especificaciones principales
  - Mini impresora 3D hecha a partir de componentes reciclados
@@ -28,9 +26,9 @@
 6. [Calibración y primera pieza](http://haudahau.com/vadedos/?p=1081)
 7. [Ponerla "coqueta", últimos detalles](http://haudahau.com/vadedos/?p=1115)
 8. Anexo
-	9. [Comprobar que los motores se mueven](http://haudahau.com/vadedos/?p=843)
-	10. [Añadir una impresora 3D en el Cura](http://haudahau.com/vadedos/?p=1095)
-11. Sácale fotos y házmelas llegar vía [twitter](https://twitter.com/enekomontero) u otros medios para añadirlas en GitHub :grin:
+	1.. [Comprobar que los motores se mueven](http://haudahau.com/vadedos/?p=843)
+	2. [Añadir una impresora 3D en el Cura](http://haudahau.com/vadedos/?p=1095)
+9. Sácale fotos y házmelas llegar vía [twitter](https://twitter.com/enekomontero) u otros medios para añadirlas en GitHub :grin:
 
 ##Fotos
 Fotos | :camera:
@@ -41,7 +39,7 @@ Fotos | :camera:
 ![perfil](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/eg_perfil.jpg) | ![perfil sin fondo](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/eg_sinfondo.jpg) 
 
 ##eGarbigunes por el mundo :earth_africa:
-Samuel Gil | Santiago de Compostela
+Samuel Gil | :round_pushpin: Santiago de Compostela
 -------- | ---
 ![samuel1](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/samuel1.jpg)  | ![samuel2](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/samuel2.jpg)
  
