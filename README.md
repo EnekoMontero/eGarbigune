@@ -1,8 +1,6 @@
 #eGarbigune :recycle:
  > Probably the cheapest mini 3D printer in the world. :moneybag:<br/>
  > Probablemente la mini impresora 3D más barata del mundo. :moneybag:
- 
-`[TOC]`
 
 ##Especificaciones principales
  - Mini impresora 3D hecha a partir de componentes reciclados
@@ -18,17 +16,17 @@
 
 ##Instrucciones de montaje
 [Índice - Guía de montaje](http://haudahau.com/vadedos/)
-1. [Lista de materiales](http://haudahau.com/vadedos/?p=952)
-2. [Preparando los lectores de cd/dvd](http://haudahau.com/vadedos/?p=982)
-3. [Impresión de piezas](http://haudahau.com/vadedos/?p=1000)
-4. [Montaje de la estructura y del extrusor](http://haudahau.com/vadedos/?p=1026)
-5. [Electrónica y cableado](http://haudahau.com/vadedos/?p=1057)
-6. [Calibración y primera pieza](http://haudahau.com/vadedos/?p=1081)
-7. [Ponerla "coqueta", últimos detalles](http://haudahau.com/vadedos/?p=1115)
-8. Anexo
+ 1. [Lista de materiales](http://haudahau.com/vadedos/?p=952)
+ 2. [Preparando los lectores de cd/dvd](http://haudahau.com/vadedos/?p=982)
+ 3. [Impresión de piezas](http://haudahau.com/vadedos/?p=1000)
+ 4. [Montaje de la estructura y del extrusor](http://haudahau.com/vadedos/?p=1026)
+ 5. [Electrónica y cableado](http://haudahau.com/vadedos/?p=1057)
+ 6. [Calibración y primera pieza](http://haudahau.com/vadedos/?p=1081)
+ 7. [Ponerla "coqueta", últimos detalles](http://haudahau.com/vadedos/?p=1115)
+ 8. Anexo
 	1.. [Comprobar que los motores se mueven](http://haudahau.com/vadedos/?p=843)
 	2. [Añadir una impresora 3D en el Cura](http://haudahau.com/vadedos/?p=1095)
-9. Sácale fotos y házmelas llegar vía [twitter](https://twitter.com/enekomontero) u otros medios para añadirlas en GitHub :grin:
+ 9. Sácale fotos y házmelas llegar vía [twitter](https://twitter.com/enekomontero) u otros medios para añadirlas en GitHub :grin:
 
 ##Fotos
 Fotos | :camera:
