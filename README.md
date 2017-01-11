@@ -24,8 +24,8 @@
  6. [Calibración y primera pieza](http://haudahau.com/vadedos/?p=1081)
  7. [Ponerla "coqueta", últimos detalles](http://haudahau.com/vadedos/?p=1115)
  8. Anexo
-	1.. [Comprobar que los motores se mueven](http://haudahau.com/vadedos/?p=843)
-	2. [Añadir una impresora 3D en el Cura](http://haudahau.com/vadedos/?p=1095)
+	 1. [Comprobar que los motores se mueven](http://haudahau.com/vadedos/?p=843)
+	 2. [Añadir una impresora 3D en el Cura](http://haudahau.com/vadedos/?p=1095)
  9. Sácale fotos y házmelas llegar vía [twitter](https://twitter.com/enekomontero) u otros medios para añadirlas en GitHub :grin:
 
 ##Fotos
