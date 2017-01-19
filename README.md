@@ -44,6 +44,16 @@ Samuel Gil | :round_pushpin: Santiago de Compostela
 ##Vídeos
  - Mini 3D Printer - First attempt [[youtube]](https://www.youtube.com/watch?v=VHxQsBB6kfk)
  - eGarbigune - Mini 3D Printer [[youtube]](https://www.youtube.com/watch?v=phJxERG1OLM&t=1s)
+ 
+##Algunos artículos donde aparece
+ - <http://haudahau.com/vadedos/?page_id=906>
+ - <https://3dprint.com/94400/egarbigune-3d-printer/>
+ - <http://impresiontresde.com/blog/egarbigune-una-mini-impresora-3d-reciclando-viejos-componentes-electronicos/>
+ - <http://3dprintingfromscratch.com/2015/10/eneko-monteros-3d-printer-from-recycled-parts/>
+ - <http://www.semageek.com/egarbigune-la-mini-imprimante-3d-fabriquee-avec-des-pieces-recyclees/>
+ - <http://maker8.com/article-4497-1.html>
+ - <http://www.3dhoo.com/news/guowai/21030.html>
+ - <http://dimglobal.ning.com/group/roboticadonostia16/forum/topics/egarbigune-mini-impresora-3d-reciclada>
 
 ##Autor
  - Eneko Montero
