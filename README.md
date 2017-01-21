@@ -40,7 +40,12 @@ Fotos | :camera:
 Samuel Gil | :round_pushpin: Santiago de Compostela
 -------- | ---
 ![samuel1](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/samuel1.jpg)  | ![samuel2](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/samuel2.jpg)
- 
+
+[bolsoncerrado](http://print3dforum.com/) | :round_pushpin: Barcelona
+-------- | ---
+![bolsoncerrado1](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/bolsoncerrado1.jpg)  | ![bolsoncerrado2](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/bolsoncerrado2.jpg)
+![bolsoncerrado3](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/bolsoncerrado3.jpg)  | ![bolsoncerrado4](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/bolsoncerrado4.jpg)
+
 ##Vídeos
  - Mini 3D Printer - First attempt [[youtube]](https://www.youtube.com/watch?v=VHxQsBB6kfk)
  - eGarbigune - Mini 3D Printer [[youtube]](https://www.youtube.com/watch?v=phJxERG1OLM&t=1s)
