@@ -1,8 +1,8 @@
-#eGarbigune :recycle:
+﻿# eGarbigune :recycle:
  > Probably the cheapest mini 3D printer in the world. :moneybag:<br/>
  > Probablemente la mini impresora 3D más barata del mundo. :moneybag:
 
-##Especificaciones principales
+## Especificaciones principales
  - Mini impresora 3D hecha a partir de componentes reciclados
  - Replicable
  - Electrónica: Arduino Mega + Ramps 1.4
@@ -14,7 +14,7 @@
  - Materiales: PLA
  - Velocidad: 20-40mm/s
 
-##Instrucciones de montaje
+## Instrucciones de montaje
 [Índice - Guía de montaje](http://haudahau.com/vadedos/?p=906)
  1. [Lista de materiales](http://haudahau.com/vadedos/?p=952)
  2. [Preparando los lectores de cd/dvd](http://haudahau.com/vadedos/?p=982)
@@ -28,7 +28,7 @@
 	 2. [Añadir una impresora 3D en el Cura](http://haudahau.com/vadedos/?p=1095)
  9. Sácale fotos y házmelas llegar vía [twitter](https://twitter.com/enekomontero) u otros medios para añadirlas en GitHub :grin:
 
-##Fotos
+## Fotos
 Fotos | :camera:
 -------- | ---
 ![general](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/eg_general.jpg)  | ![delante](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/eg_delante.jpg) 
@@ -36,7 +36,7 @@ Fotos | :camera:
 ![general detras](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/eg_general_detras.jpg)  | ![detrás](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/eg_detras.jpg) 
 ![perfil](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/eg_perfil.jpg) | ![perfil sin fondo](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/eg_sinfondo.jpg) 
 
-##eGarbigunes por el mundo :earth_africa:
+## eGarbigunes por el mundo :earth_africa:
 Samuel Gil | :round_pushpin: Santiago de Compostela
 -------- | ---
 ![samuel1](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/samuel1.jpg)  | ![samuel2](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/samuel2.jpg)
@@ -46,11 +46,11 @@ Samuel Gil | :round_pushpin: Santiago de Compostela
 ![bolsoncerrado1](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/bolsoncerrado1.jpg)  | ![bolsoncerrado2](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/bolsoncerrado2.jpg)
 ![bolsoncerrado3](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/bolsoncerrado3.jpg)  | ![bolsoncerrado4](https://github.com/EnekoMontero/eGarbigune/blob/master/Fotos/bolsoncerrado4.jpg)
 
-##Vídeos
+## Vídeos
  - Mini 3D Printer - First attempt [[youtube]](https://www.youtube.com/watch?v=VHxQsBB6kfk)
  - eGarbigune - Mini 3D Printer [[youtube]](https://www.youtube.com/watch?v=phJxERG1OLM&t=1s)
  
-##Algunos artículos donde aparece
+## Algunos artículos donde aparece
  - <http://haudahau.com/vadedos/?page_id=906>
  - <https://3dprint.com/94400/egarbigune-3d-printer/>
  - <http://impresiontresde.com/blog/egarbigune-una-mini-impresora-3d-reciclando-viejos-componentes-electronicos/>
@@ -60,9 +60,9 @@ Samuel Gil | :round_pushpin: Santiago de Compostela
  - <http://www.3dhoo.com/news/guowai/21030.html>
  - <http://dimglobal.ning.com/group/roboticadonostia16/forum/topics/egarbigune-mini-impresora-3d-reciclada>
 
-##Autor
+## Autor
  - Eneko Montero
  
-##Licencia
+## Licencia
 <p style="text-align: justify;"><a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Licencia Creative Commons" /></a><br/>
 <a href="http://haudahau.com/vadedos/?page_id=906" target="_blank">eGarbigune</a> por <a href="https://es.linkedin.com/in/enekomontero" target="_blank" rel="cc:attributionURL">Eneko Montero</a> se distribuye bajo una <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.</p>
